@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learn_NetAPI\\MyWebAPIApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Learn_NetAPI\\MyWebAPIApp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|d:\\learn_netapi\\mywebapiapp\\mywebapiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|solutionrelative:mywebapiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Migrations\\20250728070422_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyWebAPIApp\\Migrations\\20250728070422_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|d:\\learn_netapi\\mywebapiapp\\mywebapiapp\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|solutionrelative:mywebapiapp\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Migrations\\20250728065826_AddDataContext_Loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyWebAPIApp\\Migrations\\20250728065826_AddDataContext_Loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|d:\\learn_netapi\\mywebapiapp\\mywebapiapp\\data\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|solutionrelative:mywebapiapp\\data\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|d:\\learn_netapi\\mywebapiapp\\mywebapiapp\\models\\hanghoamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|solutionrelative:mywebapiapp\\models\\hanghoamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|d:\\learn_netapi\\mywebapiapp\\mywebapiapp\\models\\loaimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|solutionrelative:mywebapiapp\\models\\loaimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|d:\\learn_netapi\\mywebapiapp\\mywebapiapp\\controllers\\loaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|solutionrelative:mywebapiapp\\controllers\\loaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|d:\\learn_netapi\\mywebapiapp\\mywebapiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|solutionrelative:mywebapiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|d:\\learn_netapi\\mywebapiapp\\mywebapiapp\\mywebapiapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|solutionrelative:mywebapiapp\\mywebapiapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|d:\\learn_netapi\\mywebapiapp\\mywebapiapp\\mywebapiapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|solutionrelative:mywebapiapp\\mywebapiapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|d:\\learn_netapi\\mywebapiapp\\mywebapiapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|solutionrelative:mywebapiapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|d:\\learn_netapi\\mywebapiapp\\mywebapiapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|solutionrelative:mywebapiapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|d:\\learn_netapi\\mywebapiapp\\mywebapiapp\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|solutionrelative:mywebapiapp\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|d:\\learn_netapi\\mywebapiapp\\mywebapiapp\\data\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|solutionrelative:mywebapiapp\\data\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|d:\\learn_netapi\\mywebapiapp\\mywebapiapp\\data\\donhangchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|solutionrelative:mywebapiapp\\data\\donhangchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|d:\\learn_netapi\\mywebapiapp\\mywebapiapp\\data\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1E3B74-D994-442C-87FF-4C3035EE11E7}|MyWebAPIApp\\MyWebAPIApp.csproj|solutionrelative:mywebapiapp\\data\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Learn_NetAPI\\MyWebAPIApp\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\Learn_NetAPI\\MyWebAPIApp\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVEhLtZVdTsJAFIWroTyDK3ELJuCbsA1ZhQRFRETkV6yV8AAsgAI\u002BugW3wAr0RUop7Tj3dmagtLXFhJOc3mEynXu\u002BSWmlg4oQcsSGqOFwSKcIzAcY7rFZdeZkWf42DOMsl7v8ZNsEazAYEMuyXF5zr7nXWG3bJqPRiMznc6Kqb1\u002BtdueUbePSMasoSASiN0sW2AJbwrSRMKwBJZNJKZVOJeJx\u002BaPRbHma\u002BDbAqzOMpBPa5DydxiZsSijGKoo30MZjrH8pm81iVRQFKygmxxNs6K9\u002Bv4/nvlqZ1CticBuOl8IGWS4NogsviWmuSe2p7uH2EMAKTQsn2FUmkxUnEKher4dPjH9ymjogva47BNXHWhgBXCRpomnOxB6KRKCqKhJsznoneUD6BSOoPFSjEUwnByJQlFf8l7rTO6ndyalZcm7TNEn5vhJG4CD8h\u002BAikwkn6HZf8F3jSSu8OfNt/yx0sqIEpbtyOAGsmE4nzsQeikTQ7jwTkxKItCyxX2qenBsIirelcAJAmB2KoNlq4/Psl1Z4K/UuQeGmGIGA6n02xbqPgIBuwH4FqN5o4vMMKYOSBhkI8oVrTwfPBwdWxOQYWt7D/P5duT768D7HJhFtU9MBVj5XyF\u002B59jywJOkX7ucXnGOxDX8AAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-28T07:18:43.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250728070422_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Migrations\\20250728070422_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MyWebAPIApp\\Migrations\\20250728070422_InitialCreate.cs",
+              "ToolTip": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Migrations\\20250728070422_InitialCreate.cs",
+              "RelativeToolTip": "MyWebAPIApp\\Migrations\\20250728070422_InitialCreate.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAYwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:04:22.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250728065826_AddDataContext_Loai.cs",
+              "DocumentMoniker": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Migrations\\20250728065826_AddDataContext_Loai.cs",
+              "RelativeDocumentMoniker": "MyWebAPIApp\\Migrations\\20250728065826_AddDataContext_Loai.cs",
+              "ToolTip": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Migrations\\20250728065826_AddDataContext_Loai.cs",
+              "RelativeToolTip": "MyWebAPIApp\\Migrations\\20250728065826_AddDataContext_Loai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:58:26.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Data\\HangHoa.cs",
+              "RelativeDocumentMoniker": "MyWebAPIApp\\Data\\HangHoa.cs",
+              "ToolTip": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Data\\HangHoa.cs",
+              "RelativeToolTip": "MyWebAPIApp\\Data\\HangHoa.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T03:57:35.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyWebAPIApp",
+              "DocumentMoniker": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\MyWebAPIApp.csproj",
+              "RelativeDocumentMoniker": "MyWebAPIApp\\MyWebAPIApp.csproj",
+              "ToolTip": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\MyWebAPIApp.csproj",
+              "RelativeToolTip": "MyWebAPIApp\\MyWebAPIApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-28T04:57:53.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyWebAPIApp.http",
+              "DocumentMoniker": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\MyWebAPIApp.http",
+              "RelativeDocumentMoniker": "MyWebAPIApp\\MyWebAPIApp.http",
+              "ToolTip": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\MyWebAPIApp.http",
+              "RelativeToolTip": "MyWebAPIApp\\MyWebAPIApp.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-28T04:33:49.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MyWebAPIApp\\appsettings.json",
+              "ToolTip": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\appsettings.json",
+              "RelativeToolTip": "MyWebAPIApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-28T04:33:22.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyWebAPIApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyWebAPIApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-28T04:28:45.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Data\\DonHang.cs",
+              "RelativeDocumentMoniker": "MyWebAPIApp\\Data\\DonHang.cs",
+              "ToolTip": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Data\\DonHang.cs",
+              "RelativeToolTip": "MyWebAPIApp\\Data\\DonHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T03:58:16.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DonHangChiTiet.cs",
+              "DocumentMoniker": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Data\\DonHangChiTiet.cs",
+              "RelativeDocumentMoniker": "MyWebAPIApp\\Data\\DonHangChiTiet.cs",
+              "ToolTip": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Data\\DonHangChiTiet.cs",
+              "RelativeToolTip": "MyWebAPIApp\\Data\\DonHangChiTiet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T03:58:06.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HangHoaModel.cs",
+              "DocumentMoniker": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Models\\HangHoaModel.cs",
+              "RelativeDocumentMoniker": "MyWebAPIApp\\Models\\HangHoaModel.cs",
+              "ToolTip": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Models\\HangHoaModel.cs",
+              "RelativeToolTip": "MyWebAPIApp\\Models\\HangHoaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T03:54:48.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoaiModel.cs",
+              "DocumentMoniker": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Models\\LoaiModel.cs",
+              "RelativeDocumentMoniker": "MyWebAPIApp\\Models\\LoaiModel.cs",
+              "ToolTip": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Models\\LoaiModel.cs",
+              "RelativeToolTip": "MyWebAPIApp\\Models\\LoaiModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T03:54:44.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoaiController.cs",
+              "DocumentMoniker": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Controllers\\LoaiController.cs",
+              "RelativeDocumentMoniker": "MyWebAPIApp\\Controllers\\LoaiController.cs",
+              "ToolTip": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Controllers\\LoaiController.cs",
+              "RelativeToolTip": "MyWebAPIApp\\Controllers\\LoaiController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T03:22:54.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyWebAPIApp\\Program.cs",
+              "ToolTip": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Program.cs",
+              "RelativeToolTip": "MyWebAPIApp\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T02:02:51.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "MyWebAPIApp\\WeatherForecast.cs",
+              "ToolTip": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\WeatherForecast.cs",
+              "RelativeToolTip": "MyWebAPIApp\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T02:00:46.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "MyWebAPIApp\\Controllers\\HangHoaController.cs",
+              "ToolTip": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "MyWebAPIApp\\Controllers\\HangHoaController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T07:31:11.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "MyWebAPIApp\\Data\\MyDbContext.cs",
+              "ToolTip": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "MyWebAPIApp\\Data\\MyDbContext.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswDkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:34:33.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Loai.cs",
+              "DocumentMoniker": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Data\\Loai.cs",
+              "RelativeDocumentMoniker": "MyWebAPIApp\\Data\\Loai.cs",
+              "ToolTip": "D:\\Learn_NetAPI\\MyWebAPIApp\\MyWebAPIApp\\Data\\Loai.cs",
+              "RelativeToolTip": "MyWebAPIApp\\Data\\Loai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:49:35.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
